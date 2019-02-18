@@ -34,10 +34,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Soumyaranjan Dash** - *Initial work* - [Soumyaranjan](https://github.com/somodash)
+* **Soumyaranjan Dash**
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used [PurpleBooth](https://gist.github.com/PurpleBooth)
+* README is inspired by [PurpleBooth](https://gist.github.com/PurpleBooth)
 * References for this project are taken from [Getting Started with Sphinx-Gallery](https://sphinx-gallery.readthedocs.io/en/latest/getting_started.html), [Configuration](https://sphinx-rtd-theme.readthedocs.io/en/latest/configuring.html).
 
