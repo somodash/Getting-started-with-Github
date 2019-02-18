@@ -1,3 +1,5 @@
+[![Documentation Status](https://readthedocs.org/projects/getting-started-with-github/badge/?version=latest)](https://getting-started-with-github.readthedocs.io/en/latest/?badge=latest)
+
 # Creating a Github repository
 
 Here is a tutorial to create a opensource github repository and upload files to the same from commandline.
