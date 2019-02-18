@@ -1,4 +1,4 @@
-.. image:: image_github.svg
+.. image:: image_github.png
 
 Getting Started
 ---------------
