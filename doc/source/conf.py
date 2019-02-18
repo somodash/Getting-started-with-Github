@@ -9,9 +9,9 @@ copyright = ' '
 author = 'soumyaranjan'
 
 # The short X.Y version
-version = ''
+version = '0.0.1'
 # The full version, including alpha/beta/rc tags
-release = ''
+release = 'unstable'
 
 
 # -- General configuration ---------------------------------------------------
@@ -71,7 +71,7 @@ pygments_style = None
 # a list of builtin themes.
 #
 html_theme = 'sphinx_rtd_theme'
-
+html_logo = "image_github.png"
 
 # -- Options for HTMLHelp output ---------------------------------------------
 
