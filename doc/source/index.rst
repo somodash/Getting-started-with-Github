@@ -42,3 +42,6 @@ To remove any file at the remote repository
 
 	git rm file1.txt
 	git commit -m "removal comments"
+
+This page is built using `Sphinx <https://sphinx-rtd-theme.readthedocs.io/en/latest/configuring.html>`_.
+
