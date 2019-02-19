@@ -1,11 +1,8 @@
 doc-run: &doc-build
   name: Build documentation
   command: |
-    python3 -m venv venv
-    . venv/bin/activate
     pip install --user -r ../requirements/docs.txt | cat
-    make html SPHINXOPTS='-W -q'
-  working_directory: doc
+    cd docs/ && make html SPHINXOPTS='-W -q'
 
 version: 2
 jobs:
