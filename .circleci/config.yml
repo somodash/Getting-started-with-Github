@@ -1,7 +1,7 @@
 doc-run: &doc-build
   name: Build documentation
   command: |
-    pip install -r requirements/docs.txt | cat
+    pip install -r ../requirements/docs.txt | cat
     make html SPHINXOPTS='-W -q'
   working_directory: doc
 
