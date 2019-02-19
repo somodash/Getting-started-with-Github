@@ -1,4 +1,4 @@
-dep-run: &depedency-install
+dep-run: &dependency-install
   name: Install python dependencies
   command: |
     python3 -m venv venv
