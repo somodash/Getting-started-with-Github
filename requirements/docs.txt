@@ -1,4 +1,7 @@
 
+matplotlib
+numpy
+scipy
 pillow
 sphinx-automodapi>=0.10
 numpydoc
