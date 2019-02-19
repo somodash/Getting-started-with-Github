@@ -1,4 +1,5 @@
 [![Documentation Status](https://readthedocs.org/projects/getting-started-with-github/badge/?version=latest)](https://getting-started-with-github.readthedocs.io/en/latest/?badge=latest)
+[![CircleCI](https://circleci.com/gh/somodash/Getting-started-with-Github.svg?style=svg)](https://circleci.com/gh/somodash/Getting-started-with-Github)
 
 # Creating a Github repository
 
