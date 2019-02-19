@@ -4,7 +4,7 @@ doc-run: &doc-build
     pip install --user -r requirements/docs.txt | cat
     echo $(pwd)
     echo $(ls)
-#    cd ../docs/ && make html SPHINXOPTS='-W -q'
+    cd doc/ && make html SPHINXOPTS='-W -q'
 
 version: 2
 jobs:
