@@ -9,9 +9,18 @@ copyright = ' '
 author = 'soumyaranjan'
 
 # The short X.Y version
-version = '0.0.1'
+#version = '0.0.1'
 # The full version, including alpha/beta/rc tags
-release = 'unstable'
+#release = 'unstable'
+
+html_context = {
+    "display_github": True, # Integrate GitHub
+    "github_user": "somodash", # Username
+    "github_repo": "Getting-started-with-Github", # Repo name
+    "github_version": "master", # Version
+    "conf_py_path": "/doc/source/", # Path in the checkout to the docs root
+}
+
 
 
 # -- General configuration ---------------------------------------------------
